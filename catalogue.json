@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-03-01",
+  "updated": "2026-04-04",
   "catalogue_url": "https://raw.githubusercontent.com/conkiembock/appliance-manual-catalogue/refs/heads/main/catalogue.json",
   "manuals": [
     {
@@ -10,8 +10,9 @@
       "model_name": "Cremmaet Compact",
       "model_number": "01636",
       "languages": ["es", "en", "fr", "de", "it", "pt", "nl", "pl", "cs"],
-      "manual_url": "",
-      "index_url": "",
+      "manual_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/cecotec-cremmaet-compact/manual.pdf",
+      "index_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/cecotec-cremmaet-compact/index.faiss",
+      "chunks_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/cecotec-cremmaet-compact/chunks.json",
       "thumbnail_url": "",
       "notes": "Superautomatic espresso machine"
     }
