@@ -239,9 +239,9 @@
           "¿Dónde están las rejillas de ventilación?"
         ]
       },
-      "manual_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/kgn-fridge-freezer/manual.pdf",
-      "index_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/kgn-fridge-freezer/index.faiss",
-      "chunks_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/kgn-fridge-freezer/chunks.json",
+      "manual_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/bosch-fridge-freezer/manual.pdf",
+      "index_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/bosch-fridge-freezer/index.faiss",
+      "chunks_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/bosch-fridge-freezer/chunks.json",
       "thumbnail_url": "",
       "notes": "Combination refrigerator and freezer unit"
     },
@@ -301,9 +301,9 @@
           "¿Cómo uso la función descongelar?"
         ]
       },
-      "manual_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/smeg-dolc-e-gabbana-sicily-is-my-love/manual.pdf",
-      "index_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/smeg-dolc-e-gabbana-sicily-is-my-love/index.faiss",
-      "chunks_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/smeg-dolc-e-gabbana-sicily-is-my-love/chunks.json",
+      "manual_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/smeg-tsf01/manual.pdf",
+      "index_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/smeg-tsf01/index.faiss",
+      "chunks_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/smeg-tsf01/chunks.json",
       "thumbnail_url": "",
       "notes": "2-slice and 4-slice toaster"
     }
