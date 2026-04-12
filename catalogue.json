@@ -9,18 +9,67 @@
       "appliance_type": "Coffee Machine",
       "model_name": "Cremmaet Compact",
       "model_number": "01636",
-      "countries": ["ES", "PT", "FR", "DE", "IT", "NL", "BE", "PL", "CZ", "AT", "CH"],
-      "languages": ["es", "en", "fr", "de", "it", "pt", "nl", "pl", "cs"],
+      "countries": [
+        "ES",
+        "PT",
+        "FR",
+        "DE",
+        "IT",
+        "NL",
+        "BE",
+        "PL",
+        "CZ",
+        "AT",
+        "CH"
+      ],
+      "languages": [
+        "es",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "cs"
+      ],
       "suggested_questions": {
-        "en": ["How do I descale the machine?", "How do I clean the milk frother?"],
-        "es": ["¿Cómo descalcifico la máquina?", "¿Cómo limpio el vaporizador de leche?"],
-        "fr": ["Comment détartrer la machine ?", "Comment nettoyer le mousseur à lait ?"],
-        "de": ["Wie entkalke ich die Maschine?", "Wie reinige ich den Milchaufschäumer?"],
-        "it": ["Come si decalcifica la macchina?", "Come si pulisce il montalatte?"],
-        "pt": ["Como se descalcifica a máquina?", "Como limpar o vaporizador de leite?"],
-        "nl": ["Hoe ontkalkt ik de machine?", "Hoe reinig ik de melkopschuimer?"],
-        "pl": ["Jak odkamieniać ekspres?", "Jak czyścić spieniaczkę do mleka?"],
-        "cs": ["Jak odvápnit kávovar?", "Jak vyčistit napěňovač mléka?"]
+        "en": [
+          "How do I descale the machine?",
+          "How do I clean the milk frother?"
+        ],
+        "es": [
+          "¿Cómo descalcifico la máquina?",
+          "¿Cómo limpio el vaporizador de leche?"
+        ],
+        "fr": [
+          "Comment détartrer la machine ?",
+          "Comment nettoyer le mousseur à lait ?"
+        ],
+        "de": [
+          "Wie entkalke ich die Maschine?",
+          "Wie reinige ich den Milchaufschäumer?"
+        ],
+        "it": [
+          "Come si decalcifica la macchina?",
+          "Come si pulisce il montalatte?"
+        ],
+        "pt": [
+          "Como se descalcifica a máquina?",
+          "Como limpar o vaporizador de leite?"
+        ],
+        "nl": [
+          "Hoe ontkalkt ik de machine?",
+          "Hoe reinig ik de melkopschuimer?"
+        ],
+        "pl": [
+          "Jak odkamieniać ekspres?",
+          "Jak czyścić spieniaczkę do mleka?"
+        ],
+        "cs": [
+          "Jak odvápnit kávovar?",
+          "Jak vyčistit napěňovač mléka?"
+        ]
       },
       "manual_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/cecotec-cremmaet-compact/manual.pdf",
       "index_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/cecotec-cremmaet-compact/index.faiss",
@@ -34,11 +83,22 @@
       "appliance_type": "Washer-Dryer",
       "model_name": "Lavadora-Secadora",
       "model_number": "F2DR5S09A1W",
-      "countries": ["ES", "PT"],
-      "languages": ["es"],
+      "countries": [
+        "ES",
+        "PT"
+      ],
+      "languages": [
+        "es"
+      ],
       "suggested_questions": {
-        "es": ["¿Qué programa uso para ropa delicada?", "¿Cómo limpio el filtro de la bomba?"],
-        "en": ["What programme should I use for delicate clothes?", "How do I clean the pump filter?"]
+        "es": [
+          "¿Qué programa uso para ropa delicada?",
+          "¿Cómo limpio el filtro de la bomba?"
+        ],
+        "en": [
+          "What programme should I use for delicate clothes?",
+          "How do I clean the pump filter?"
+        ]
       },
       "manual_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/lg-f2dr5s09a1w/manual.pdf",
       "index_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/lg-f2dr5s09a1w/index.faiss",
@@ -52,17 +112,200 @@
       "appliance_type": "Dishwasher",
       "model_name": "HygieneShield Freestanding Dishwasher",
       "model_number": "BDFN26640XC",
-      "countries": ["ES", "PT", "GB", "IE", "FR", "IT", "DE", "NL", "BE"],
-      "languages": ["es"],
+      "countries": [
+        "ES",
+        "PT",
+        "GB",
+        "IE",
+        "FR",
+        "IT",
+        "DE",
+        "NL",
+        "BE"
+      ],
+      "languages": [
+        "es"
+      ],
       "suggested_questions": {
-        "es": ["¿Cómo añado la sal y el abrillantador?", "¿Qué significa el código de error E1?"],
-        "en": ["How do I add salt and rinse aid?", "What does error code E1 mean?"]
+        "es": [
+          "¿Cómo añado la sal y el abrillantador?",
+          "¿Qué significa el código de error E1?"
+        ],
+        "en": [
+          "How do I add salt and rinse aid?",
+          "What does error code E1 mean?"
+        ]
       },
       "manual_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/beko-bdfn26640xc/manual.pdf",
       "index_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/beko-bdfn26640xc/index.faiss",
       "chunks_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/beko-bdfn26640xc/chunks.json",
       "thumbnail_url": "",
       "notes": "Freestanding dishwasher, 16 place settings, Spanish only"
+    },
+    {
+      "id": "xiaomi-g20-max",
+      "brand": "Xiaomi",
+      "appliance_type": "Vacuum Cleaner",
+      "model_name": "G20 Max",
+      "model_number": null,
+      "countries": [
+        "GB",
+        "IE",
+        "US",
+        "CA",
+        "AU",
+        "NZ",
+        "DE",
+        "AT",
+        "CH",
+        "IT",
+        "FR",
+        "BE",
+        "ES",
+        "MX",
+        "AR",
+        "CL",
+        "CO",
+        "PE",
+        "UY",
+        "PL",
+        "PT",
+        "BR"
+      ],
+      "languages": [
+        "ru",
+        "uk",
+        "en",
+        "de",
+        "it",
+        "fr",
+        "es",
+        "pl",
+        "tr",
+        "he",
+        "th",
+        "vi",
+        "pt",
+        "ar",
+        "ro"
+      ],
+      "suggested_questions": {
+        "en": [
+          "How do I install the wall mount?",
+          "What does the LED error code mean?"
+        ],
+        "es": [
+          "¿Cómo instalo el soporte de pared?",
+          "¿Qué significa el código de error del LED?"
+        ]
+      },
+      "manual_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/xiaomi-g20-max/manual.pdf",
+      "index_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/xiaomi-g20-max/index.faiss",
+      "chunks_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/xiaomi-g20-max/chunks.json",
+      "thumbnail_url": "",
+      "notes": "Cordless handheld vacuum cleaner with LED screen and multiple attachments"
+    },
+    {
+      "id": "bosch-fridge-freezer",
+      "brand": "Bosch",
+      "appliance_type": "Fridge",
+      "model_name": "Fridge-freezer",
+      "model_number": null,
+      "countries": [
+        "ES",
+        "MX",
+        "AR",
+        "CL",
+        "CO",
+        "PE",
+        "UY",
+        "PT",
+        "BR",
+        "IT",
+        "CH"
+      ],
+      "languages": [
+        "es",
+        "pt",
+        "it"
+      ],
+      "suggested_questions": {
+        "en": [
+          "How do I clean the interior of the fridge?",
+          "Where are the ventilation grills located?"
+        ],
+        "es": [
+          "¿Cómo limpio el interior del frigorífico?",
+          "¿Dónde están las rejillas de ventilación?"
+        ]
+      },
+      "manual_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/kgn-fridge-freezer/manual.pdf",
+      "index_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/kgn-fridge-freezer/index.faiss",
+      "chunks_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/kgn-fridge-freezer/chunks.json",
+      "thumbnail_url": "",
+      "notes": "Combination refrigerator and freezer unit"
+    },
+    {
+      "id": "smeg-tsf01",
+      "brand": "Smeg",
+      "appliance_type": "Toaster",
+      "model_name": "TSF01",
+      "model_number": null,
+      "countries": [
+        "DE",
+        "AT",
+        "CH",
+        "NL",
+        "BE",
+        "IT",
+        "GB",
+        "IE",
+        "US",
+        "CA",
+        "AU",
+        "NZ",
+        "FR",
+        "ES",
+        "MX",
+        "AR",
+        "CL",
+        "CO",
+        "PE",
+        "UY",
+        "PT",
+        "BR",
+        "PL"
+      ],
+      "languages": [
+        "de",
+        "nl",
+        "it",
+        "en",
+        "fr",
+        "es",
+        "pt",
+        "sv",
+        "ru",
+        "da",
+        "pl",
+        "fi",
+        "no"
+      ],
+      "suggested_questions": {
+        "en": [
+          "How do I clean the crumb tray?",
+          "How do I use the defrost function?"
+        ],
+        "es": [
+          "¿Cómo limpio la bandeja de migas?",
+          "¿Cómo uso la función descongelar?"
+        ]
+      },
+      "manual_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/smeg-dolc-e-gabbana-sicily-is-my-love/manual.pdf",
+      "index_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/smeg-dolc-e-gabbana-sicily-is-my-love/index.faiss",
+      "chunks_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/smeg-dolc-e-gabbana-sicily-is-my-love/chunks.json",
+      "thumbnail_url": "",
+      "notes": "2-slice and 4-slice toaster"
     }
   ]
 }
