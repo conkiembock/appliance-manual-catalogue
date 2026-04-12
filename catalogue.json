@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
-  "updated": "2026-04-05",
+  "version": "1.1",
+  "updated": "2026-04-12",
   "catalogue_url": "https://raw.githubusercontent.com/conkiembock/appliance-manual-catalogue/refs/heads/main/catalogue.json",
   "manuals": [
     {
@@ -9,17 +9,19 @@
       "appliance_type": "Coffee Machine",
       "model_name": "Cremmaet Compact",
       "model_number": "01636",
-      "languages": [
-        "es",
-        "en",
-        "fr",
-        "de",
-        "it",
-        "pt",
-        "nl",
-        "pl",
-        "cs"
-      ],
+      "countries": ["ES", "PT", "FR", "DE", "IT", "NL", "BE", "PL", "CZ", "AT", "CH"],
+      "languages": ["es", "en", "fr", "de", "it", "pt", "nl", "pl", "cs"],
+      "suggested_questions": {
+        "en": ["How do I descale the machine?", "How do I clean the milk frother?"],
+        "es": ["¿Cómo descalcifico la máquina?", "¿Cómo limpio el vaporizador de leche?"],
+        "fr": ["Comment détartrer la machine ?", "Comment nettoyer le mousseur à lait ?"],
+        "de": ["Wie entkalke ich die Maschine?", "Wie reinige ich den Milchaufschäumer?"],
+        "it": ["Come si decalcifica la macchina?", "Come si pulisce il montalatte?"],
+        "pt": ["Como se descalcifica a máquina?", "Como limpar o vaporizador de leite?"],
+        "nl": ["Hoe ontkalkt ik de machine?", "Hoe reinig ik de melkopschuimer?"],
+        "pl": ["Jak odkamieniać ekspres?", "Jak czyścić spieniaczkę do mleka?"],
+        "cs": ["Jak odvápnit kávovar?", "Jak vyčistit napěňovač mléka?"]
+      },
       "manual_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/cecotec-cremmaet-compact/manual.pdf",
       "index_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/cecotec-cremmaet-compact/index.faiss",
       "chunks_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/cecotec-cremmaet-compact/chunks.json",
@@ -32,9 +34,12 @@
       "appliance_type": "Washer-Dryer",
       "model_name": "Lavadora-Secadora",
       "model_number": "F2DR5S09A1W",
-      "languages": [
-        "es"
-      ],
+      "countries": ["ES", "PT"],
+      "languages": ["es"],
+      "suggested_questions": {
+        "es": ["¿Qué programa uso para ropa delicada?", "¿Cómo limpio el filtro de la bomba?"],
+        "en": ["What programme should I use for delicate clothes?", "How do I clean the pump filter?"]
+      },
       "manual_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/lg-f2dr5s09a1w/manual.pdf",
       "index_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/lg-f2dr5s09a1w/index.faiss",
       "chunks_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/lg-f2dr5s09a1w/chunks.json",
@@ -47,9 +52,12 @@
       "appliance_type": "Dishwasher",
       "model_name": "HygieneShield Freestanding Dishwasher",
       "model_number": "BDFN26640XC",
-      "languages": [
-        "es"
-      ],
+      "countries": ["ES", "PT", "GB", "IE", "FR", "IT", "DE", "NL", "BE"],
+      "languages": ["es"],
+      "suggested_questions": {
+        "es": ["¿Cómo añado la sal y el abrillantador?", "¿Qué significa el código de error E1?"],
+        "en": ["How do I add salt and rinse aid?", "What does error code E1 mean?"]
+      },
       "manual_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/beko-bdfn26640xc/manual.pdf",
       "index_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/beko-bdfn26640xc/index.faiss",
       "chunks_url": "https://pub-49d6d5e870314f9588b13dfb63689fe2.r2.dev/beko-bdfn26640xc/chunks.json",
